@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IqRR</h1>
+<h1 align="center">Hi 👋, I'm Iqra</h1>
 <h3 align="center">AI Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrahussain-041&label=Profile%20views&color=0e75b6&style=flat" alt="iqrahussain-041" /> </p>
